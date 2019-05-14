@@ -41,4 +41,5 @@ ActiveRecord::Schema.define do
   end
 end
 
+
 puts 'Setup DONE'

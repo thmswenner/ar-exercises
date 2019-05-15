@@ -10,3 +10,8 @@ puts "Exercise 7"
 puts "----------"
 
 # Your code goes here ...
+
+response = gets.chomp
+
+chilliwack = Store.create!(name: "#{response}")
+
